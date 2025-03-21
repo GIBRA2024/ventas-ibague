@@ -1,7 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Ventas Ibague Cervalle
+FN:Ventas Ibagué Cervalle
 TEL:+57 3118818314
 EMAIL;TYPE=WORK: ventasibague@cervalle.com 
 END:VCARD`;
